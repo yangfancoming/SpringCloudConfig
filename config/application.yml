@@ -1,0 +1,18 @@
+spring:
+  profiles: dev
+  application:
+    name: goat-config-fuck-dev
+
+---
+
+spring:
+  profiles: test
+  application:
+    name: goat-config-fuck-test
+
+---
+
+spring:
+  profiles: pro
+  application:
+    name: goat-config-fuck-pro
