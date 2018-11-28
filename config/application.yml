@@ -1,6 +1,6 @@
 spring:
   profiles: dev
-  application:
+  application:1
     name: goat-config-fuck-dev
 
 ---
